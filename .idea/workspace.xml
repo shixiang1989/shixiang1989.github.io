@@ -22,6 +22,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -31,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757120264939</updated>
       <workItem from="1757120267545" duration="797000" />
-      <workItem from="1757149186600" duration="715000" />
+      <workItem from="1757149186600" duration="13269000" />
     </task>
     <servers />
   </component>
